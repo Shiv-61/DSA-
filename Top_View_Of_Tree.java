@@ -6,9 +6,8 @@
      TreeNode(int val) { data = val; left = null;right = null; }
  } 
 
-public class Main {
+public class Top_View_Of_Tree {
     public static List<Integer> topView(TreeNode root) {
-        //your code goes here
         List<Integer> arr = new ArrayList<>();
         if(root==null)
             return arr;

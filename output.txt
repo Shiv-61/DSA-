@@ -1,0 +1,13 @@
+For Pick : curr_wt = 0 curr_val = 0
+For Pick : curr_wt = 2 curr_val = 0
+For Pick : curr_wt = 4 curr_val = 0
+For Pick : curr_wt = 6 curr_val = 0
+For Pick : curr_wt = 8 curr_val = 0
+For Pick : curr_wt = 6 curr_val = 0
+For Pick : curr_wt = 4 curr_val = 0
+For Pick : curr_wt = 4 curr_val = 0
+For Pick : curr_wt = 2 curr_val = 0
+For Pick : curr_wt = 2 curr_val = 0
+For Pick : curr_wt = 0 curr_val = 0
+For Pick : curr_wt = 0 curr_val = 0
+27

@@ -4,7 +4,7 @@ public class Rod_Cutting{
 		if(n>=nums.length || cut==l)
 			return 0;
 		if(dp[n][cut]!=-1)
-				return dp[n][cut];
+			return dp[n][cut];
 		int pick = 0;
 		if(cut + n+1<=l){
 			pick = rod_cut(nums,l,n,cut + n+1,dp) + nums[n];

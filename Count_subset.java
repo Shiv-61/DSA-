@@ -10,7 +10,7 @@ class Solution {
         return notpick+pick;
     }
     public int perfectSum(int[] arr, int k) {
-        return func(arr,k,0,0);
+         return func(arr,k,0,0);
     }
 }
 public class Count_subset{

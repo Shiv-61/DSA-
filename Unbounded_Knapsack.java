@@ -4,9 +4,9 @@
             if(n>= wt.length || curr_wt >W)
                 return 0;
             if(dp[n][curr_wt]!=-1)
-                    return dp[n][curr_wt];
+                return dp[n][curr_wt];
             if(wt[n]>W)
-               return func(wt,val,n+1,W,curr_wt,curr_val,dp);
+                return func(wt,val,n+1,W,curr_wt,curr_val,dp);
 
                int pick = 0;
                if (curr_wt + wt[n] <= W) {

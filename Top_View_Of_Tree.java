@@ -5,7 +5,6 @@
      TreeNode right;
      TreeNode(int val) { data = val; left = null;right = null; }
  } 
-
 public class Top_View_Of_Tree {
     public static List<Integer> topView(TreeNode root) {
         List<Integer> arr = new ArrayList<>();
